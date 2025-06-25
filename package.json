@@ -1,0 +1,14 @@
+{
+  "name": "cf-ai-web",
+  "version": "1.0.0",
+  "description": "Cloudflare AI Web - Cloudflare Workers ²¿Êð°æ",
+  "main": "src/worker.ts",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler publish"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "wrangler": "^3.53.1"
+  }
+}
