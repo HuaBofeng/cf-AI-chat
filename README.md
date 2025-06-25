@@ -89,7 +89,3 @@ wrangler publish
 - [Cloudflare Workers 官方文档](https://developers.cloudflare.com/workers/)
 - [Wrangler 配置文档](https://developers.cloudflare.com/workers/wrangler/)
 - [环境变量安全管理](https://developers.cloudflare.com/workers/configuration/secrets/)
-
----
-
-如遇具体迁移或部署问题，欢迎提 issue 或在 Chat 中详细描述你的情况。
